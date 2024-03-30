@@ -13,8 +13,8 @@ The first step is to pair the device with Zigbee2MQTT. It should be possible to 
 
 Once you successfully paired the device you will see something like:
 ```
-Zigbee2MQTT:info  2019-11-09T12:19:56: Successfully interviewed '0x00158d0001dc126a', device has successfully been paired
-Zigbee2MQTT:warn  2019-11-09T12:19:56: Device '0x00158d0001dc126a' with Zigbee model 'lumi.sens' and manufacturer name 'some_name' is NOT supported, please follow https://www.zigbee2mqtt.io/how-tos/support_new_devices.html
+Zigbee2MQTT:info  2019-11-09 12:19:56: Successfully interviewed '0x00158d0001dc126a', device has successfully been paired
+Zigbee2MQTT:warn  2019-11-09 12:19:56: Device '0x00158d0001dc126a' with Zigbee model 'lumi.sens' and manufacturer name 'some_name' is NOT supported, please follow https://www.zigbee2mqtt.io/advanced/support-new-devices/01_support_new_devices.html
 ```
 
 ::: tip
